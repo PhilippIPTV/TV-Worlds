@@ -6,3 +6,5 @@ YOU Can get the live tv channels here: https://phcorner.net/tags/iptv/
 3. mac portal http: //rayantv.org:80 remove the spaces
 00:1A:79:1D:11:64
  
+Official link of the PH IPTV:
+https://m3u-editor.com/serve/3cbf2be0-bc31-11ee-bd78-3b89c969220d
